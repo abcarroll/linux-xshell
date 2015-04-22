@@ -1,0 +1,15 @@
+### My Personal Data
+xshell/
+
+### JetBrains IDEs
+.idea/
+
+### Vim
+[._]*.s[a-w][a-z]
+[._]s[a-w][a-z]
+*.un~
+Session.vim
+.netrwhist
+*~
+
+
